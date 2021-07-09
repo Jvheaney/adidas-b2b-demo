@@ -1,0 +1,47 @@
+.Card {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  min-width: 160px;
+  min-height: 160px;
+  width: 160px;
+  margin: 5px;
+  background-color: white;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 1px 2px 4px 1px;
+  position: relative;
+}
+
+.ShoeImage {
+  padding-top: 10px;
+  height: 110px;
+  width: 110px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.ShoeName {
+  font-size: 0.8em;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.RemoveShoe {
+  position: absolute;
+  top: -8px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.RemoveButton {
+  color: red;
+  font-size: 0.8em;
+}
+
+.AddButton {
+  color: green;
+  font-size: 0.8em;
+}

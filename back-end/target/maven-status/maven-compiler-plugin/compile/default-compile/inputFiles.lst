@@ -1,0 +1,15 @@
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/Message.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/config/CORSConfig.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/Response.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/config/WebsocketConfig.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/controllers/WebsocketController.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/repositories/EntityNodeRepository.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/UsersOrdersAndSuggestions.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/controllers/MainController.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/InterestNode.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/AdidasDemoApplication.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/ShoeNode.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/config/Neo4jOGMConfiguration.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/repositories/InterestNodeRepository.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/models/EntityNode.java
+/Users/james/Downloads/adidas/src/main/java/com/jvheaney/adidas/repositories/ShoeNodeRepository.java

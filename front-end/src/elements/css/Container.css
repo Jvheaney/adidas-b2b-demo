@@ -1,0 +1,10 @@
+.OuterContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.InnerContainer {
+  width: 90%;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,16 @@
+.Paragraph {
+  text-align: left;
+  color: black;
+  width: 90%;
+  max-width: 1000px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.ParagraphContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

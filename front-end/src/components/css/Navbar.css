@@ -1,0 +1,15 @@
+.Navbar {
+  width: 100%;
+  min-height: 60px;
+  height: auto;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.LogoText {
+  color: white;
+  margin: 20px;
+}

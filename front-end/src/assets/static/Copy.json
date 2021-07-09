@@ -1,0 +1,70 @@
+{
+  "customers" : {
+    "Bob" : {
+      "bio" : "Bob is a 32 year old man that grew up in Scarborough and spent his youth playing soccer with his friends. Bob has 2 children, one boy and one girl. They love playing with lego. Even though Bob is a wholesale purchaser for Sport Chek, Bob's life long dream of playing professional soccer never ended. His love for the sport drives his focus at Sport Chek.",
+      "company" : "Sport Chek",
+      "companyBio": "Sport Chek focuses on supplying their customer's with their every sporting need. They are a general retailer that purchases shoes for men, women, and kids. They stock a range of styles from comfort to running to special edition.",
+      "bioKeywords" : ["Sport Chek", "32 year old", "man", "Scarborough", "soccer", "2 children", "boy", "girl", "lego", "professional"],
+      "companyBioKeywords" : ["general", "men", "women", "kids", "comfort", "running", "special edition"]
+    },
+    "Alice" : {
+      "bio" : "Alice is a 23 year old woman that just graduated from University with a Bachelors of Retail Management. She got her first post-graduate job at Foot Locker and has been working there for 3 months. She's still trying to find her footing at the company, but she's determined to purchase the best products for her clients. She loves comfortable shoes, and likes to run on the weekends.",
+      "company" : "Foot Locker",
+      "companyBio": "Foot Locker focuses on buying shoes for the everyday general shoe wearer. Sometimes they like to buy into hype or funky shoes. They cover the sport and running variety of shoes as well.",
+      "bioKeywords" : ["23 year old", "woman", "just graduated", "Bachelors of Retail Management", "first post-graduate job", "3 months", "comfortable", "run"],
+      "companyBioKeywords" : ["general", "hype", "funky", "sport", "running"]
+    },
+    "Tommy" : {
+      "bio" : "Tommy is a 43 year old man that has played golf his entire life. He started playing golf with his dad over 27 years ago and fell in love with it from the second he took his first swing. Tommy has 2 teenage boys, but he doesn't really care about all the fuss they make about their clothing. Tommy's friends describe him as living and breathing golf.",
+      "company" : "Golf X-Treme",
+      "companyBio": "Golf X-Treme is for the absolute biggest golf heads. Their employees are serious about golf and want to make sure you play your best game the next time you're on the course. Everybody that works at Golf X-Treme has played golf for over 15 years.",
+      "bioKeywords" : ["43 year old", "man", "golf", "entire life", "27 years ago", "2 teenage boys", "doesn't really care", "living and breathing golf"],
+      "companyBioKeywords" : ["golf heads", "best game", "golf", "15 years"]
+    },
+    "Jenny" : {
+      "bio" : "Jenny is a 25 year old woman that loves street art and grabbing a bite to eat at local resturants. Jenny has lived in Toronto her entire life and cannot imagine living anywhere else. She is an avid fan of hype clothing, and has made her passion a business. Jenny works hard to make sure her customers have the newest and hottest hype clothing, including shoes.",
+      "company" : "Hype Central",
+      "companyBio": "Hype Central is a startup focused on getting you the hottest hype clothing around. Run by Hype Central's very own self declared hype-beast Jenny, Hype Central makes sure you're turning heads when you walk down the block.",
+      "bioKeywords" : ["25 year old", "woman", "street art", "Toronto", "cannot imagine", "hype", "shoes", "newest"],
+      "companyBioKeywords" : ["startup", "hottest", "hype-beast", "hype", "turning heads", "block"]
+    }
+  },
+  "shoes" : {
+    "nmd" : {
+      "description" : "NMDs are the premier mens footwear. Ideal for your spontaneous sport matches with friends, or dress them up and wear them with a great casual look. NMDs are truly the best all-round general shoes you can buy.",
+      "keywords" : ["mens", "sport", "casual", "dress them up", "general", "all-round"]
+    },
+    "stansmith" : {
+      "description" : "What can be said about these great casual shoes? Take a walk and you will see these shoes turning heads wherever you are. Stan Smith Originals are the leading mens general footwear.",
+      "keywords" : ["casual", "mens", "general"]
+    },
+    "yzy700" : {
+      "description" : "Yeezy defined the new age of hype clothing, and the YEEZY BOOST 700s are no exception. This mens shoe was purpose made to turn heads and have all eyes on you.",
+      "keywords" : ["hype", "mens"]
+    },
+    "zg21" : {
+      "description" : "Inspired by legends of the course. These mens golfing shoes are going to power your next game and leave your opponents trying to buy a pair of these for themselves.",
+      "keywords" : ["course", "mens", "golfing"]
+    },
+    "adilette" : {
+      "description" : "Who said comfort meant ugly? These slides challenge the nay-sayers of great looking comfortable footwear, and are a great choice for summer pool parties.",
+      "keywords" : ["comfort", "slides", "great looking", "comfortable", "summer"]
+    },
+    "ub4" : {
+      "description" : "ULTRABOOST shoes are synonymous with great athletic ability. Strap on a pair and supercharge your next sporting event. And the best part? With ULTRABOOSTs being a great general purpose shoe, you can keep them on to visit the store right after.",
+      "keywords" : ["athletic", "sporting", "general"]
+    },
+    "ssbold" : {
+      "description" : "Ready to get funky? Try on a pair of these great hype shoes and show off your personality. Life is better when you express yourself, and now you can do that from your head to your toes.",
+      "keywords" : ["funky", "hype", "personality", "express yourself"]
+    },
+    "cc21" : {
+      "description" : "You are guaranteed a perfect game while you're wearing these. These womens golfing shoes are the power behind your next game.",
+      "keywords" : ["womens", "golfing", "game"]
+    },
+    "lego" : {
+      "description" : "Do we have any fans of Lego over here? Of course we do, who doesn't love Lego! Your kids are going to love you for buying these limited edition hype shoes. They'll be the talk of the playground.",
+      "keywords" : ["Lego", "kids", "limited", "hype", "playground"]
+    }
+  }
+}

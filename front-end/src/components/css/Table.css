@@ -1,0 +1,117 @@
+/* General styling for the table */
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 5px;
+}
+
+/* Specific for elements */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+thead {
+  background-color: black;
+  padding: 0;
+}
+
+thead > tr > td {
+  color: white;
+}
+
+.Avatar {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+}
+
+.CustomerInfo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.CustomerName {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.CustomerCompany {
+  display: flex;
+  flex-direction: row;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.CustomerColumn {
+  width: 20%;
+}
+
+.OrdersColumn {
+  width: 40%;
+  max-width: 150px;
+}
+
+.SuggestionsColumn {
+  width: 40%;
+  max-width: 150px;
+}
+
+.Orders {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-height: 250px;
+  overflow: scroll;
+}
+
+.Suggestions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-height: 250px;
+  overflow: scroll;
+}
+
+.AddOrder {
+  font-size: 0.8em;
+  font-style: italic;
+  cursor: pointer;
+}
+
+.CloseModalButton {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.OrderInModal {
+  display: flex;
+  flex-direction: row;
+  max-width: 600px;
+  overflow: scroll;
+  flex-wrap: wrap;
+}
+
+.ModalShoeHero {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.ShoeHero {
+  height: 200px;
+  border-radius: 20px;
+  width: auto;
+  cursor: text;
+}
